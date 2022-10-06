@@ -31,10 +31,10 @@ public class Ejercicio5 {
 				System.out.println(num3+">"+num1+">"+num2);
 			}else {
 				System.out.println(num3+">"+num2+">"+num1);
+			}
 		}
-	}
 		
-		
+		sc.close();
 	}
 
 }
